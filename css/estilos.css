@@ -1,0 +1,40 @@
+.web{
+    height: 2800px;
+    background-color: bisque;
+}
+P{
+    background-color: white;
+    width: 300px;
+    border: 1px solid black;
+}
+.imagenes{
+    height: 500px;
+    width: 1000px;
+    margin-left: 200px;
+}
+.imagen{
+    float: left;
+    margin-left:50px;
+}
+.imagen img{
+   width: 400px;
+   height: 300px;
+}
+.imagenReducida{
+    width: 1300px;
+    height: 350px;
+    margin-top: 20px;
+}
+.imagenesReducidas{
+    float: left;
+    margin-left:10px; 
+}
+.logos{
+    width: 1300px;
+    height: 400px;
+    margin-top: 20px;
+}
+.logo{
+    float: left;
+    margin-left: 10px;
+}
